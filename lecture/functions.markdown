@@ -223,6 +223,7 @@ using namespace std;
 void increment(int &x)
 {
     x++;
+    cout <<" x here is : " << x <<endl;
 }
 
 int main()
@@ -248,6 +249,29 @@ location to store their value*. We say this is a case of
 provided to the function (like it would be if we left out the `&` and
 therefore had a call-by-value parameter) but rather the memory
 location to which `a` *refers*.
+
+Here is the same function but using pass-by-value, what does this print ?
+
+{% highlight cpp %}
+#include <iostream>
+using namespace std;
+
+void increment(int x)
+{
+    x++;
+    cout <<" x here is : " << x <<endl;
+}
+
+int main()
+{
+    int a = 5;
+    increment(a);
+
+    cout << a << endl;
+    return 0;
+}
+{% endhighlight %}
+
 
 A function can have a mix of call-by-reference (or
 "pass-by-reference") and call-by-value parameters. For example, this
