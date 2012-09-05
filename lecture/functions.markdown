@@ -18,18 +18,18 @@ would need to include our own code for `sqrt()` (using an
 approximation method like Newton's) in our big pile of code in
 `main()`. This is undesirable.
 
-Functions allow the programmer to *modularize* and *isolate* code, so
+* Functions allow the programmer to *modularize* and *isolate* code, so
 that in any single function, only one task is being performed. This
 generally makes code more understandable.
 
-Additionally, writing a function allows one to potentially hide
+* Additionally, writing a function allows one to potentially hide
 code. A function can be compiled and provided (in machine-readable
 form, but not human-readable form) to other programmers. This is very
 common; e.g., Microsoft provides many functions specific to Windows
 that others can use (to write their own Windows programs) but that
 others cannot read.
 
-You can think of a function as simply code that has a name. The name
+* You can think of a function as simply code that has a name. The name
 of some chunk of code is what the code *does*. For example, the
 `sqrt()` function contains *only* enough code to find the square root
 of a number.
@@ -94,6 +94,13 @@ code that uses the function*. If you try to use a function called
 yet (either as a prototype or definition), then you get a compiler
 error.
  
+A more generic look :
+{% highlight cpp %}
+type name ( parameter1, parameter2, ...) { statements }
+{% endhighlight %}
+
+
+
 ## Function return types and parameter types
  
 Every function must have a return type (e.g. `int`, `double`, etc.),
