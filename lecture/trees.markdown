@@ -80,7 +80,7 @@ std;` has not been activated.)
 Let's now build a tree. Suppose we want to represent the expression
 `3.4-(2.6+5.0)`. This is what the tree should look like:
 
-![tree](/images/tree.png "Tree for 3.4-(2.6+5.0)")
+![tree](/cse2122/images/tree.png "Tree for 3.4-(2.6+5.0)")
 
 Here is how we build it in code. Note that we have to make a variable
 for each node, set each variable's values, then link the variables
