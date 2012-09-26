@@ -4,7 +4,7 @@ layout: default
 ---
 A tree imposes a hierarchical structure on a collection of items.
 Trees are structurally a lot like
-[linked lists](/cse2122/lecture/linked-lists.html) i.e it is a colelction of elements called *nodes*. Actually, a linked list is
+[linked lists](/cse2122/lecture/linked-lists.html) i.e it is a collection of elements called *nodes*. Actually, a linked list is
 a simplistic kind of tree. Recall that a linked list "node" had a
 value and a "next" pointer. The tree structure also has (one or more)
 values plus (one or more) pointers:
@@ -80,7 +80,7 @@ std;` has not been activated.)
 Let's now build a tree. Suppose we want to represent the expression
 `3.4-(2.6+5.0)`. This is what the tree should look like:
 
-![tree](/cse2122/tree/gh-pages/images/tree.png "Tree for 3.4-(2.6+5.0)")
+![tree](/cse2122/images/tree.jpeg "Tree for 3.4-(2.6+5.0)")
 
 Here is how we build it in code. Note that we have to make a variable
 for each node, set each variable's values, then link the variables
@@ -185,7 +185,7 @@ printout `(3.4-(2.6+5))`, which is just what we want.
 
 ## A slight variation: handling other kinds of operators
 
-In Homework 4, you must be able to work with binary and unary
+In Homework 5, you must be able to work with binary and unary
 operators/functions; that is, your tree nodes may have `+`, `-`,
 etc. operators (binary operators), and `log`, `sin`, etc. functions
 (unary functions). If we use the same `print_tree` function with a
@@ -206,7 +206,7 @@ For example, the tree
 
 ...prints as `((4sin)/(4cos))` (do you see why?).
 
-We can fix this by adding another conditional in our code. Homework 4
+We can fix this by adding another conditional in our code. Homework 5
 states that a function like `log` or `sin` has only a left subtree,
 and no right subtree (while operators `+`, `-`, etc. always have
 subtrees on both sides). So, we simply check if we have an operator
