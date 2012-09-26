@@ -2,9 +2,9 @@
 title: Trees
 layout: default
 ---
-
+A tree imposes a hierarchical structure on a collection of items.
 Trees are structurally a lot like
-[linked lists](/cse2122/lecture/linked-lists.html). Actually, a linked list is
+[linked lists](/cse2122/lecture/linked-lists.html) i.e it is a colelction of elements called *nodes*. Actually, a linked list is
 a simplistic kind of tree. Recall that a linked list "node" had a
 value and a "next" pointer. The tree structure also has (one or more)
 values plus (one or more) pointers:
@@ -46,15 +46,15 @@ call them trees anymore; the correct terminology is "graph." A graph
 is a structure where every node can have links to any other node, even
 back to itself (so trees are a kind of graph).
 
-We will actually be creating graphs in Homework 7 and 8, but for now
+We will actually be creating graphs in later Homeworks, but for now
 we will concern ourselves only with trees.
 
 ## Building a tree
 
 The rest of these lecture notes will refer specifically to
-[Homework 4](/cse2122/homework/homework-4.html) requirements.
+[Homework 5](/cse2122/homework/homework-4.html) requirements.
 
-In Homework 4, each tree node contains two values (besides the
+In Homework 5, each tree node contains two values (besides the
 pointers): a `string op` value and a `double val` value. The idea is
 that the `op` will equal `""` when the node has a numeric value
 (stored in `val`), and `op` will not equal `""` when the node
