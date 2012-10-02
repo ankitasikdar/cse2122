@@ -146,7 +146,7 @@ You need to download some files (.cpp files and .h files) and
 load these as your CodeBlocks/Visual Studio/Xcode "project."
 
 Here is a ZIP package with all the files you need:
-[hw4.zip](/cse230/homework/hw4.zip)
+[hw4.zip](/cse2122/homework/hw4.zip)
 
 In there you'll also find `main.cpp` &mdash; use that file to begin
 writing your own code. You'll see some instructions in the file. In
