@@ -2,6 +2,10 @@
 title: Classes and object orientation
 layout: default
 ---
+One of the most powerful features of C++ is the use of *derived classes*.
+The word inheritance is just another name for the topic of derived classes.
+
+Inheritance allows us to define a generic class and then later define more specialized classes that add some new details to the existing general class.
 
 Imagine we're writing a game. We'll need "data structures"
 (collections of variables) to represent player characters (PCs; the
