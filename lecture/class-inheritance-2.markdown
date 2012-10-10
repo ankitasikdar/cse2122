@@ -283,7 +283,7 @@ r.print();
 cout << endl;
 {% endhighlight %}
 
-## Member gunctions that return new objects
+## Member functions that return new objects
 
 Let's make a member function inside the `Rectangle` class that rotates the
 rectangle 90 degrees (assume the `x` and `y` coordinates indicate the
@@ -413,8 +413,8 @@ MoneyMarketAccount::MoneyMarketAccount(string _owner, double _balance)
 }
 {% endhighlight %}
 
-In order to call the parent's constructor, we use the `:` followed by
-the parent's constructor function call (e.g. `BankAccount(_owner)`).
+*In order to call the parent's constructor, we use the `:` followed by
+the parent's constructor function call (e.g. `BankAccount(_owner)`).*
 
 ## Public and private data and member functions
 

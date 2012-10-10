@@ -7,12 +7,12 @@ layout: default
 Skills needed to complete this assignment:
 
   - Creating classes and using object-oriented program design
-    ([lecture notes](/cse230/lecture/classes-and-object-orientation.html))
+    ([lecture notes](/cse2122/lecture/classes-and-object-orientation.html))
 
   - Splitting code into several files
-    ([lecture notes](/cse230/lecture/splitting-code.html))
+    ([lecture notes](/cse2122/lecture/splitting-code.html))
 
-(See the Complex class on [Classes and object orientation](/cse230/lecture/classes-and-object-orientation.html) 
+(See the Complex class on [Classes and object orientation](/cse2122/lecture/classes-and-object-orientation.html) 
 page for an example that is similar to this assignment.)
 
 Write a rational number class. This problem is revisited in Chapter 11
@@ -49,7 +49,7 @@ if the rational number `num1` is less than the rational number
 `num2`). Provide a member function `neg` that has no parameters and
 returns a rational number that is the negative of the calling object.
 
-**Extra points: Also use operator overloading to implement `add` (`+`), `sub` (`-`), `mul` (`*`), `div` (`/`), `less` (`<`) and `neg` (`-`). [5 Points]**
+**Extra points: Also use operator overloading to implement `add` (`+`), `sub` (`-`), `mul` (`*`), `div` (`/`), `less` (`<`) and `neg` (`-`). [5 Points]** [ i have not taught this yet]
 
 Also provide a member function `print` that simply prints the rational
 number in a format like `-9/13`.
@@ -78,8 +78,8 @@ reference parameter ("call-by-reference") to make the function call
 more efficient (the instance `other` need not be copied when the
 function is called).
 
-To repeat, inside the `add` function, you'll make an instance of the
-Rational class and set its values. Then you return that instance.
+*To repeat, inside the `add` function, you'll make an instance of the
+Rational class and set its values. Then you return that instance.*
 
 Always store and print the *reduced form* of the rational number; that
 is, always divide out the greatest common divisor (GCD) of the
@@ -124,5 +124,4 @@ files):
   - `main.cpp` which contains testing code (i.e. the `main()`
     function)
 
-Submit to me all three files (either in a ZIP or three email
-attachments).
+Submit to me all three files (in a ZIP file).
