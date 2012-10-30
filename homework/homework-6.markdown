@@ -79,7 +79,7 @@ A strategy for finishing this assignment is to work on the `BankAccount` and
 
 Here is a diagram of the classes.
 
-![Bank Account UML diagram](/cse230/images/bankaccount-uml.png "Bank Account UML diagram")
+![Bank Account UML diagram](/cse2122/images/bankaccount-uml.png "Bank Account UML diagram")
 
 Note, if you want `balance` not to be `public` in the `BankAccount` class then
 you'll actually need to make it `protected`. This ensures that it will be
