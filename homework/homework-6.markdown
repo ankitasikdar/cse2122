@@ -7,10 +7,7 @@ layout: default
 Skills needed to complete this assignment:
 
   - Creating classes and using object-oriented program design
-    ([lecture notes (part 1)](/cse2122/lecture/classes-and-object-orientation.html)
-    and
-    [lecture notes (part 2)](/cse2122/lecture/classes-and-object-orientation-2.html))
-
+  
   - Using polymorphism ([lecture notes](/cse2122/lecture/polymorphism.html))
 
   - Splitting code into several files
