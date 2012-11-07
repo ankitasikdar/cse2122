@@ -12,6 +12,8 @@ Skills needed to complete this assignment:
 
   - Splitting code into several files
     ([lecture notes](/cse2122/lecture/splitting-code.html))
+  
+  - Help files are located ([here](http://www.cse.ohio-state.edu/~bhattaca/src/cse2122/))
 
 Banks have many different types of accounts often with different rules
 for fees associated with transactions such as withdrawals. Customers
