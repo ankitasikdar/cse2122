@@ -29,7 +29,7 @@ int main ()
   a.print();
 return 0;
 }
-{% highlight cpp %}
+{% endhighlight %}
 
 simple template class 
 {% highlight cpp %}
@@ -54,7 +54,7 @@ int main ()
   a.print();
 return 0;
 }
-{% highlight cpp %}
+{% endhighlight %}
 
 Let's try something a little bit more complicated.
 
