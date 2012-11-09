@@ -4,15 +4,15 @@ layout: default
 ---
 
   - Creating classes and using object-oriented program design
-    ([lecture notes (part 1)](/cse230/lecture/classes-and-object-orientation.html)
+    ([lecture notes (part 1)](/cse2122/lecture/classes-and-object-orientation.html)
     and
-    [lecture notes (part 2)](/cse230/lecture/classes-and-object-orientation-2.html))
+    [lecture notes (part 2)](/cse2122/lecture/classes-and-object-orientation-2.html))
 
   - Use of maps to store pointers
-    ([lecture notes](/cse230/lecture/maps-sets-etc.html))
+    ([lecture notes](/cse2122/lecture/maps-sets-etc.html))
 
   - Splitting code into several files
-    ([lecture notes](/cse230/lecture/splitting-code.html))
+    ([lecture notes](/cse2122/lecture/splitting-code.html))
 
 Make a class called `Room` and a `main()` function that allow a user to "walk
 through a maze." Here is an example interaction:
