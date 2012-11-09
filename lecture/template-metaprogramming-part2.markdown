@@ -4,6 +4,59 @@ layout: default
 ---
 
 ## Templated class
+Let's start with something simple 
+
+consider the class 
+{% highlight cpp %}
+
+class point{
+public:
+double x;
+double y;
+void print ()
+{
+  cout <<" x "<<x<<" y "<<y<<endl;
+}
+};
+
+
+int main ()
+{
+  point a;
+  a.x=10.7;
+  a.y=20.0;
+  
+  a.print();
+return 0;
+}
+{% highlight cpp %}
+
+simple template class 
+{% highlight cpp %}
+template <typename T>
+class point{
+public:
+T x;
+T y;
+void print ()
+{
+  cout <<" x "<<x<<" y "<<y<<endl;
+}
+};
+
+
+int main ()
+{
+  point<int> a;
+  a.x=10;
+  a.y=20;
+  
+  a.print();
+return 0;
+}
+{% highlight cpp %}
+
+Let's try something a little bit more complicated.
 
 Consider the template class LinkedList:
 
