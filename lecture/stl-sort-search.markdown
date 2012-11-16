@@ -68,6 +68,10 @@ int main()
 }
 {% endhighlight %}
 
+The output of the above code is :
+
+ 6 8 10 12
+
 The end of a vector is the position after the last element of the vector:
 
 ![End of an array](/cse2122/images/array-3.png "End of array")
