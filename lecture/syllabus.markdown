@@ -26,6 +26,10 @@ You can see your grades on Carmen.
 
 Submit your homeworks using carmen.
 
+Notes about HomeWorks
+
+- All submitted work must run on linux machines, avoid using windows specific libraries.
+
 This material will be challenging. Consider the class like a math or
 physics class. It will require a lot of thinking, staring at the
 problem, planning a solution with pen & paper, etc. It's almost
