@@ -48,6 +48,9 @@ expected. **Trivial bugs** in your code can cause you to waste hours
 attempting to fix your program. The last 10% of the work takes 90% of
 the time. And so on. So start early!
 
+The HomeWorks are **open-ended**, the idea being for you to explore be creative. Please ask questions whenever in doubt.
+
+Think of this class as a way to get familiar with coding and hopefully have some fun along the way!
 
 
 > **Hofstadter's Law** "It always takes longer than you expect, even when you

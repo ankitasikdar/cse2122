@@ -15,7 +15,6 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
     - Pointers and the symbol table (Section 9.1).
     - C++ review: Conditionals and Loops (Section 2.4 \& Chapter 3).
 * Week 3: 
-    - Monday: Labor day.
     - C++ Review: Functions (Chapters 4 \& 5).
 * Week 4: 
     - C++ review: Arrays (Chapter 7).
@@ -26,27 +25,27 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
     - Linked lists (Chapter 13).
     - Midterm 1
 * Week 6 : 
-    -  trees (Chapter 13). (hw 4 stack )    
+    -  trees (Chapter 13).    
 * Week 7: 
     - Classes and object oriented programming (Chapters 10).
     - Class inheritance (Sections 15.1 \& 15.2).
-    - Splitting Code (Section 12.1). (hw 5 trees)
+    - Splitting Code (Section 12.1). 
 * Week 8:
-    - Polymorphism (Section 15.3). (hw 6 Rational number class)
+    - Polymorphism (Section 15.3).
 * Week 9:
-    - Recursion (Chapter 14). (hw 7 Bank account )
+    - Recursion (Chapter 14). 
 * Week 10:
-    - Templates and meta-programming  (Chapter 17).  (hw 8 Recursion hw)
+    - Templates and meta-programming  (Chapter 17).
 * Week 11:
-    - Maps, sets, etc. (Chapter 18) (hw 9 on Templates)
+    - Maps, sets, etc. (Chapter 18)
 * Week 12:
-    - STL algorithms: Sorting and searching (Chapter 18). (hw 10 on maps)
+    - STL algorithms: Sorting and searching (Chapter 18).
 * Week 13:
     - Monday: Veteran's day.
     - Graphs (hw 11 on STL)    
 * Week 14:
     - Thursday/Friday: Thanksgiving and Columbus day.
-    - Game design.  (hw 12 on graphs)
+    - Game design. 
 * Week 15:
     - Exception handling. (Chapter 16)
 * Week 16:
