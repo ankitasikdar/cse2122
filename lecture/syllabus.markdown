@@ -48,6 +48,8 @@ expected. **Trivial bugs** in your code can cause you to waste hours
 attempting to fix your program. The last 10% of the work takes 90% of
 the time. And so on. So start early!
 
+
+
 > **Hofstadter's Law** "It always takes longer than you expect, even when you
 > take into account Hofstadter's Law." --
 > *G&ouml;del, Escher, Bach: An eternal golden braid*
