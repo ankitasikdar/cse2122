@@ -41,10 +41,8 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
 * Week 12:
     - STL algorithms: Sorting and searching (Chapter 18).
 * Week 13:
-    - Monday: Veteran's day.
-    - Graphs (hw 11 on STL)    
+    - Graphs    
 * Week 14:
-    - Thursday/Friday: Thanksgiving and Columbus day.
     - Game design. 
 * Week 15:
     - Exception handling. (Chapter 16)
