@@ -24,9 +24,10 @@ You can see your grades on Carmen.
 
 ## Homeworks
 
-Submit your homeworks using carmen.
+Submit your homeworks using carmen. Most/All other information can be found in the webpage.
 
-Notes about HomeWorks
+
+**Notes about HomeWorks**
 
 - All submitted work must run on linux machines, avoid using windows specific libraries.
 
@@ -38,11 +39,12 @@ impossible to fake your way through it. There are always many ways to
 between code that shows you understand your solution and code that
 shows you just tried every possibility. You will be graded higher if
 your solution is incomplete but intelligent, than if your solution is
-just a mess. Additionally, code that actually works (even if it's
-incomplete) is much better than code that has errors.
+just a mess. 
+
+Additionally, **code that actually works** (even if it's incomplete) is much better than code that has errors.
 
 Most students say that programming assignments take longer than they
-expected. Trivial bugs in your code can cause you to waste hours
+expected. **Trivial bugs** in your code can cause you to waste hours
 attempting to fix your program. The last 10% of the work takes 90% of
 the time. And so on. So start early!
 
