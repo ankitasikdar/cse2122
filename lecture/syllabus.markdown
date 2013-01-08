@@ -51,6 +51,7 @@ the time. And so on. So start early!
 The HomeWorks are **open-ended**, the idea being for you to explore be creative. Please ask questions whenever in doubt.
 
 Think of this class as a way to get familiar with coding and hopefully have some fun along the way!
+Also, the things that you learn outside of the subject this semester, are the things that are going to be most useful to you down the road.
 
 
 > **Hofstadter's Law** "It always takes longer than you expect, even when you
