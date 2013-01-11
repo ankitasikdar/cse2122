@@ -5,10 +5,10 @@ layout: default
 
 From the book, page 172, question 8.
 
-**Due Sept 9, 11pm (Fri) Submit in Carmen**
+**Due date on carmen**
 
 
-**Please name your file yourname-hw1.cpp and submit it on carmen.**
+**Please have your name in a comment as the first line of your homework**
 
 
 Write a program that scores a blackjack hand. In blackjack, a player receives

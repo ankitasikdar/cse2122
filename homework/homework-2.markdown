@@ -5,7 +5,7 @@ layout: default
 
 From the book, page 293, question 5. 
 
-**Due Sept 14, 11pm (Fri).**
+**Due date on carmen**
 
 Write a program that tells what coins to give out for any amount of change from
 1 cent to 99 cents. For example, if the amount is 86 cents, the output would be
