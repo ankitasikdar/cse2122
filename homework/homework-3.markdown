@@ -5,7 +5,6 @@ layout: default
 
 From the book, page 440, question 13.
 
-**Due Sept 21, 11pm (Fri).**
 
 Skills needed to complete this assignment:
 
