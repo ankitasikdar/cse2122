@@ -33,8 +33,8 @@ int main()
 
         cout << "Enter the number of cards in your hand: ";
         cin >> numcards;
-
-        while(!(numcards<=5 && numcards>=2)) // if number of cards is invalid keep prompting for a valid number
+        // if number of cards is invalid keep prompting for a valid number
+        while(!(numcards<=5 && numcards>=2)) 
         {
             cout << "Number of cards in your hand must be a number between 2 and 5." << endl;
             cout << "Enter the number of cards in your hand: ";
@@ -54,7 +54,8 @@ int main()
             {
                 score+=9;
             }
-            else if(card=='t' || card=='T' || card=='j' || card=='J' || card=='q' || card=='Q' || card=='k' || card=='K')
+            else if(card=='t' || card=='T' || card=='j' || card=='J' 
+            || card=='q' || card=='Q' || card=='k' || card=='K')
             {
                 score+=10;
             }
@@ -76,8 +77,8 @@ int main()
                 score-=10;
             }
         }
-
-        if(score <= 21) // if score is less than or equal to 21 print score otherwise the hand is busted
+        // if score is less than or equal to 21 print score otherwise the hand is busted
+        if(score <= 21) 
         {
             cout << "Your score is " << score << "." << endl;
         }

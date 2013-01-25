@@ -80,11 +80,11 @@ int n;
 cout << "How many values? ";
 cin >> n;
 
-int *numbers = new int[n];
+int *numbers = new int[n]; // Allocate n integers and save pointer in numbers
 for(int i = 0; i < n; i++)
 {
     cout << "Enter value: ";
-    cin >> numbers[i];
+    cin >> numbers[i];    // Do You see how this works ?
 }
 // ...
 
