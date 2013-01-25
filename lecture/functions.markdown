@@ -343,6 +343,25 @@ changeValues2(x, y);
 This is why call-by-reference is useful; it makes the code a little
 simpler, but has the same effect.
 
+Here is another popular example, swapping of 2 numbers in C++
+
+{% highlight cpp %}
+void swapnum(int &i, int &j) {
+  int temp = i;
+  i = j;
+  j = temp;
+}
+
+int main(void) {
+  int a = 10;
+  int b = 20;
+
+  swapnum(a, b);
+  cout << " A is " << a << " while b is " << b <<endl;
+  return 0;
+}
+{% endhighlight %}
+
 ## Functions inside classes ("methods")
 
 We can put a function inside a class; in this case, the function can
