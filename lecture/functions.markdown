@@ -357,7 +357,25 @@ int main(void) {
   int b = 20;
 
   swapnum(a, b);
-  cout << " A is " << a << " while b is " << b <<endl;
+  cout << " a is " << a << " while b is " << b <<endl;
+  return 0;
+}
+{% endhighlight %}
+
+and here is the corresponding C version of the swapnum code:
+{% highlight cpp%}
+void swapnum(int *i, int *j) {
+  int temp = i;
+  i = j;
+  j = temp;
+}
+
+int main(void) {
+  int a = 10;
+  int b = 20;
+
+  swapnum(&a, &b);
+  printf("A is %d and B is %d\n", a, b);
   return 0;
 }
 {% endhighlight %}

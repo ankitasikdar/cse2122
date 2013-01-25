@@ -17,6 +17,86 @@ layout: default
 > human artifact; and any human artifact of sufficient size and
 > complexity is imperfect. -- (*op. cit.*)
 
+## Some Examples :
+{% highlight cpp %}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    char card('y'); // for entering the cards in the hand
+    int numcards(0), score(0), numace(0); // num cards is total number of cards, score is the total score and numace is the number of aces
+
+    while(card=='Y' || card=='y') // loop to continue scoring hands
+    {
+        //prompt for number of cards
+
+        cout << "Enter the number of cards in your hand: ";
+        cin >> numcards;
+
+        while(!(numcards<=5 && numcards>=2)) // if number of cards is invalid keep prompting for a valid number
+        {
+            cout << "Number of cards in your hand must be a number between 2 and 5." << endl;
+            cout << "Enter the number of cards in your hand: ";
+            cin >> numcards;
+        }
+
+        for(int i=1; i <= numcards; i++) // loop to enter in cards and score
+        {
+            cout << "Enter a card (2-9, t, j, k, q, a): ";
+            cin >> card;
+
+            if(card == '2')
+            {
+                score+=2;
+            }
+            else if(card=='9')
+            {
+                score+=9;
+            }
+            else if(card=='t' || card=='T' || card=='j' || card=='J' || card=='q' || card=='Q' || card=='k' || card=='K')
+            {
+                score+=10;
+            }
+            else if(card=='a' || card=='A')
+            {
+                score+=11;
+                numace++;
+            }
+            else
+            {
+                cout << "Invalid input." << endl;
+            }
+        }
+
+        for(int n=1; n <= numace; n++) // loop to correctly value the aces in a hand
+        {
+            if(score>21)
+            {
+                score-=10;
+            }
+        }
+
+        if(score <= 21) // if score is less than or equal to 21 print score otherwise the hand is busted
+        {
+            cout << "Your score is " << score << "." << endl;
+        }
+        else
+        {
+            cout << "Busted!" << endl;
+        }
+
+        // prompt to score another hand
+
+        cout << "To try again enter y or any other character to quit: ";
+        cin >> card;
+
+        }
+
+    return 0;
+}
+{% endhighlight %}
+
 ## CodeBlocks specific techniques
 
 ## Visual Studio specific techniques
