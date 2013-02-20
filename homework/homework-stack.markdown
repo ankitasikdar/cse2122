@@ -7,12 +7,12 @@ In Class we discussed about the 'Stack' data structure( remember that it is LIFO
 In esscence you will have to implement the following functions:
 
 * isEmpty: Return true if the stack is empty. 
-* Top:  Access next element 
+* Top:  Access the top element.
 * Push: Add a new element and update the TOP
 * Pop: Remove element and update teh TOP
 * Print: print all the elements in a stack
 
 You may assume that the stack contains only integers. Look at the code for Linked List for a good starting point.
-You must provide a command line based user interface.
+You must provide a command line based user interface. Remember to use top instead of first.
 
 
