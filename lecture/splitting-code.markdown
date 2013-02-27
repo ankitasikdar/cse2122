@@ -214,6 +214,61 @@ g++ -o myprogram rectangle.o ellipse.o main.o
 The first three lines compile each `.cpp` file separately (producing a
 corresponding `.o` file). The fourth line links all the `.o` files together to
 create the final program.
+## CMAKE
+
+<li><a href="https://dl.dropbox.com/u/2989703/example.zip">Example of project using cmake</a></li>
+unzip contents into a folder.
+Go to the folder in your terminal.
+write cmake . 
+and then
+make 
+run the program by using ./shape
+Here is a sample of what it looks in my terminal 
+
+arindam:Week-7\:Wed Feb 27: cmake .
+-- The C compiler identification is GNU
+-- The CXX compiler identification is GNU
+-- Check for working C compiler: /usr/bin/gcc
+-- Check for working C compiler: /usr/bin/gcc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/arindam/Dropbox/cse2122/src/Week-7
+arindam:Week-7\:Wed Feb 27: make
+Scanning dependencies of target shape
+[ 33%] Building CXX object CMakeFiles/shape.dir/main.cpp.o
+[ 66%] Building CXX object CMakeFiles/shape.dir/shape.cpp.o
+[100%] Building CXX object CMakeFiles/shape.dir/Rectangle.cpp.o
+Linking CXX executable shape
+[100%] Built target shape
+arindam:Week-7\:Wed Feb 27: ./shape 
+ class example 
+****************************************
+Calling the SHAPE constructor. Setting x to 10 and y to 15.
+6
+5,4
+****************************************
+Calling the SHAPE constructor. Setting x to 10 and y to 15.
+This is a RECTANGLE  default constructor
+r.x 9.3
+r.y 2.3
+****************************************
+Calling the SHAPE constructor. Setting x to 10 and y to 15.
+This is a RECTANGLE  default constructor
+r.x 10
+r.y 15
+****************************************
+Calling the SHAPE constructor. Setting x to 10 and y to 15.
+This is a RECTANGLE  default constructor
+2.07495e-317
+6.95326e-310
+prints garbage because the constructor does not initialize anything
+arindam:Week-7\:Wed Feb 27: 
 
 ## Visual Studio
 
