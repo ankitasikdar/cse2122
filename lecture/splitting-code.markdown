@@ -214,9 +214,9 @@ g++ -o myprogram rectangle.o ellipse.o main.o
 The first three lines compile each `.cpp` file separately (producing a
 corresponding `.o` file). The fourth line links all the `.o` files together to
 create the final program.
-## CMAKE
+## Using CMAKE
 
-<li><a href="https://dl.dropbox.com/u/2989703/example.zip">Example of project using cmake</a></li>
+Compiling using<a href="https://dl.dropbox.com/u/2989703/example.zip">Cmake</a></li>
 unzip contents into a folder.
 Go to the folder in your terminal.
 write cmake . 
@@ -239,6 +239,8 @@ arindam:Week-7\:Wed Feb 27: cmake .
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/arindam/Dropbox/cse2122/src/Week-7
+
+
 arindam:Week-7\:Wed Feb 27: make
 Scanning dependencies of target shape
 [ 33%] Building CXX object CMakeFiles/shape.dir/main.cpp.o
@@ -246,6 +248,8 @@ Scanning dependencies of target shape
 [100%] Building CXX object CMakeFiles/shape.dir/Rectangle.cpp.o
 Linking CXX executable shape
 [100%] Built target shape
+
+
 arindam:Week-7\:Wed Feb 27: ./shape 
  class example 
 ****************************************
