@@ -216,7 +216,7 @@ corresponding `.o` file). The fourth line links all the `.o` files together to
 create the final program.
 ## Using CMAKE
 
-Compiling using<a href="https://dl.dropbox.com/u/2989703/example.zip">Cmake</a>
+Compiling using <a href="https://dl.dropbox.com/u/2989703/example.zip">Cmake</a>
 
 * Unzip contents into a folder.
 * Go to the folder in your terminal.
@@ -227,6 +227,7 @@ Compiling using<a href="https://dl.dropbox.com/u/2989703/example.zip">Cmake</a>
 Here is a sample of what it looks in my terminal 
 
 arindam:Week-7\:Wed Feb 27: cmake .
+
 -- The C compiler identification is GNU
 -- The CXX compiler identification is GNU
 -- Check for working C compiler: /usr/bin/gcc
@@ -243,6 +244,7 @@ arindam:Week-7\:Wed Feb 27: cmake .
 
 
 arindam:Week-7\:Wed Feb 27: make
+
 Scanning dependencies of target shape
 [ 33%] Building CXX object CMakeFiles/shape.dir/main.cpp.o
 [ 66%] Building CXX object CMakeFiles/shape.dir/shape.cpp.o
