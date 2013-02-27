@@ -216,13 +216,14 @@ corresponding `.o` file). The fourth line links all the `.o` files together to
 create the final program.
 ## Using CMAKE
 
-Compiling using<a href="https://dl.dropbox.com/u/2989703/example.zip">Cmake</a></li>
-unzip contents into a folder.
-Go to the folder in your terminal.
-write cmake . 
-and then
-make 
-run the program by using ./shape
+Compiling using<a href="https://dl.dropbox.com/u/2989703/example.zip">Cmake</a>
+
+* Unzip contents into a folder.
+* Go to the folder in your terminal.
+* cmake . 
+* make 
+* run the program by using ./shape
+
 Here is a sample of what it looks in my terminal 
 
 arindam:Week-7\:Wed Feb 27: cmake .
