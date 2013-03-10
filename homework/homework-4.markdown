@@ -156,8 +156,8 @@ if you provide the rest of the code, the "interactive" parsing feature
 should work properly).
 
 Videos for setting up Windows IDEs. Watch the
-[CodeBlocks video](/cse230/video/homework-4-codeblocks.html) or the
-[VisualStudio video](/cse230/video/homework-4-visualstudio.html).
+[CodeBlocks video](/cse2122/video/homework-4-codeblocks.html) or the
+[VisualStudio video](/cse2122/video/homework-4-visualstudio.html).
 
 ## Your task
 
