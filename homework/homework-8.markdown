@@ -1,27 +1,26 @@
 ---
-title: Homework 8
+title: Presentation
 layout: default
 ---
 
-**Due June 1, 11pm (Fri).**
 
 Skills needed to complete this assignment:
 
   - Creating classes and using object-oriented program design
-    ([lecture notes (part 1)](/cse230/lecture/classes-and-object-orientation.html)
+    ([lecture notes (part 1)](/cse2122/lecture/classes-and-object-orientation.html)
     and
-    [lecture notes (part 2)](/cse230/lecture/classes-and-object-orientation-2.html))
+    [lecture notes (part 2)](/cse2122/lecture/classes-and-object-orientation-2.html))
 
-  - Using polymorphism ([lecture notes](/cse230/lecture/polymorphism.html))
+  - Using polymorphism ([lecture notes](/cse2122/lecture/polymorphism.html))
 
   - Use of maps and sets to store pointers
-    ([lecture notes](/cse230/lecture/maps-sets-etc.html))
+    ([lecture notes](/cse2122/lecture/maps-sets-etc.html))
 
   - Splitting code into several files
-    ([lecture notes](/cse230/lecture/splitting-code.html))
+    ([lecture notes](/cse2122/lecture/splitting-code.html))
     
-This assignment extends Homework 7. Ideally, you will start with your
-HW 7 code and extend it, so that you have the experience of adapting
+This assignment extends Homework 8. Ideally, you will start with your
+HW 8 code and extend it, so that you have the experience of adapting
 existing code (it's more challenging than starting over). I won't be
 checking if you did start with your prior code or did not, however.
 
@@ -127,6 +126,8 @@ if(cur_room->getLinked(direction) != NULL)
 }
 {% endhighlight %}
 
+Can you think of how to replace 4 so that this code works for codes with different number of links to other rooms.
+
 If you use `rand()` anywhere in your code, be sure to include this at
 the beginning of `main()`:
 
@@ -140,8 +141,7 @@ class, make a `.cpp` and a `.h` file. Also write a `main.cpp` file
 that has the `main()` function in it. Check out the lecture notes for
 examples.
 
-When you submit your code (via email), send me all of the `.cpp` and
-`.h` files.
+
 
 Your `Room` class must be updated as well to tell the player who is in
 the room. That is, the `Room` class should have a set or some other

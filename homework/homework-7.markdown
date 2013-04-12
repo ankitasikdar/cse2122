@@ -13,6 +13,8 @@ layout: default
 
   - Splitting code into several files
     ([lecture notes](/cse2122/lecture/splitting-code.html))
+  - For Part 2 (presentation) please look at 
+    ([lecture notes](/cse2122/homework/homework-8.html))
 
 Make a class called `Room` and a `main()` function that allow a user to "walk
 through a maze." Here is an example interaction:
