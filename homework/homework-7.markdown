@@ -51,8 +51,7 @@ The `Room` class should have at least these methods:
 * `Room *getLinked(string direction)` -- get the room linked in some direction
 * `void printLinked()` -- print all rooms linked to this room
 
-You should support room links in North, South, East, and West
-directions (at least). Use a map (key is the direction, a string;
+You should support room links such as  'North', 'South', 'out the window'. Use a map (key is the direction, a string;
 value is the `Room` pointer).
 
 You can establish the maze in the code (in the `main()` function
@@ -63,6 +62,11 @@ There is no particular need for polymorphism in this program's code,
 but you should use `private` and `public` data/methods in your class
 (make a meaningful separation). Also, split your code into three
 files: `room.h`, `room.cpp`, and `main.cpp`.
+
+Once you have set up the maze, set up the Thing class.
+For the homework add a Lock to one of the rooms and a key is hidden in another room.
+The goal of the game is for the User to find the key and open the lock.
+
 
 This may be interesting if you have some free time:
 [http://www.kongregate.com/games/2DArray/you-find-yourself-in-a-room](http://www.kongregate.com/games/2DArray/you-find-yourself-in-a-room)
