@@ -5,10 +5,13 @@ layout: default
 
 From the book, page 172, question 8.
 
-**Due date on carmen**
 
-
-**Please have your name in a comment as the first line of your homework**
+**All homeworks must have  the following at the top of the submitted file
+    File name: homework-1.cpp
+    Created by: 
+    Created on: 
+    Synopsis:
+**
 
 
 Write a program that scores a blackjack hand. In blackjack, a player receives
