@@ -7,7 +7,7 @@ It is very important when writing computer programs that one is able to save
 data in temporary locations, move data in and out of these locations and change
 the data over time. How we do this in C++ is with variables.
 
-Consider the mathematical formula c =
+Consider the mathematical formula c=
 (a<sup>2</sup>+b<sup>2</sup>)<sup>0.5</sup> (Pythagoras' formula). This formula
 can find the length of the hypotenuse of *any* right triangle. If we were to
 write a program that implemented this formula, then we would have a program
