@@ -48,7 +48,7 @@ integer type of variable results in an error.
 
 ## Overflow and underflow
 
-Computers are finite machines, so they cannot store arbitrarily large values or
+Computers are finite machines, so they cannot store arbitrarily large values or 
 arbitrarily small values (i.e. teeny-tiny fractions). Most programs do not need
 extremely large or small values, so very rarely is the fact that computers are
 finite an issue. However, C++ types also have their limits, and some of these
