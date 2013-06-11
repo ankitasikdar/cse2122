@@ -44,8 +44,6 @@ ensure that you are using variables the right way by checking if you are using
 values of the right type. For example, trying to save a string inside an
 integer type of variable results in an error.
 
-[SLEEP CHECK](http://www.cse.ohio-state.edu/~bhattaca/src/code01.cpp)
-
 ## Overflow and underflow
 
 Computers are finite machines, so they cannot store arbitrarily large values or 
