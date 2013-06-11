@@ -32,9 +32,7 @@ independent modules and several different programming languages:
 * Javascript -- website interactivity
 * SQL -- database access
 
-This mix of languages is not atypical. For my work, I usually use Java with MATLAB 
-(for handling large matrices). I also use C/C++ together with MATLAB when higher 
-efficiency is required.
+This mix of languages is not atypical. 
 
 * An engineer may use one or more of the following languages in practice: Matlab,
 Mathematica, R, AutoLISP, FORTRAN, C, C++, Java, Python, and C#.
