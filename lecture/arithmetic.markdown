@@ -77,6 +77,9 @@ r = p && q;    // "&&" means "and", so r == false
 r = q || (!p)  // r == false
 {% endhighlight %}
 
+## [Precedence of operators]
+   (http://msdn.microsoft.com/en-us/library/2bxt6kc4.aspx)
+   
 ## Mathy example
 
 This example shows use of several mathematical functions and
