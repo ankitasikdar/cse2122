@@ -123,7 +123,7 @@ int main()
     cin >> x;
     
     cout.precision(3);
-    cout.setf(ios::fixed, ios::floatfield);
+    cout.setf(ios::fixed);
     
     cout << "You entered " << x << endl;
     return 0;
