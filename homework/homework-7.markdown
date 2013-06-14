@@ -1,3 +1,4 @@
+<!--
 ---
 title: Homework 8
 layout: default
@@ -75,3 +76,5 @@ This may be interesting if you have some free time:
 
 You can also play the original (updated to be played in a browser)
 [Colossal Cave Adventure](http://www.ifiction.org/games/playz.php?cat=&game=1&mode=html)
+
+-->
