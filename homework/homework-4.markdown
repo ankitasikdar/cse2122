@@ -1,3 +1,4 @@
+<!--
 ---
 title: Homework 5
 layout: default
@@ -292,3 +293,5 @@ Result: 2
 
 When you give me your code, you only need to send me `main.cpp`,
 unless you happened to have modified other files as well.
+
+-->
