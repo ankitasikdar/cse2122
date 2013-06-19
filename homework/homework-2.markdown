@@ -1,4 +1,4 @@
-<!--
+
 ---
 title: Homework 2
 layout: default
@@ -51,4 +51,3 @@ Handle errors in the following way: if the user enters a value less than 0 or
 greater than or equal to 100 (which violates the function's precondition), then
 tell the user that's an invalid value, and repeat the loop that asks for
 another input value.
--->
