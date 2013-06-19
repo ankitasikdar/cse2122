@@ -1,8 +1,7 @@
-
 ---
 title: Homework 2
 layout: default
----
+--- 
 
 From the book, page 293, question 5. 
 
