@@ -1,4 +1,4 @@
-<!--
+
 ---
 title: Homework 3
 layout: default
@@ -310,4 +310,3 @@ int main()
     return 0;
 }
 {% endhighlight %}
--->
