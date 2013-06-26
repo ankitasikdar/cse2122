@@ -298,6 +298,6 @@ This means that `position_y` in the member function is the `position_y` of the
 `me` object.
 
 Continue to
-[Classes and object orientation (part 2)](/cse2122/lecture/classes-and-object-orientation-2.html)
+[Classes and object orientation (part 2)](/cse2122/lecture/class-inheritance-2.html)
 to learn how to create complete programs.
 
