@@ -1,22 +1,17 @@
 ---
-title: Homework 3 Alternative - Stack calculator
+title: Homework 4
 layout: default
 ---
 
-**Due Apr 23, 11 pm (Mon)**
+In Class we discussed about the 'Stack' data structure( remember that it is LIFO 'last in first out'). A stack can be implemented using arrays or a linked list. In this homework, I want you to implement a Stack using linked lists.
+In esscence you will have to implement the following functions:
 
-Your task is to program a calculator that uses a stack. These
-calculators use "postfix" notation or "Reverse Polish notation (RPN)"
-for their mathematical expressions.
+* isEmpty: Return true if the stack is empty. 
+* Top:  Access the top element.
+* Push: Add a new element and update the TOP
+* Pop: Remove element and update teh TOP
+* Print: print all the elements in a stack
 
-For example, `5 - 2` is instead written `5 2 -` and `5 - (2 + 1)`
-written `5 2 1 + -`
-
-The way this works is as follows:
-
-  * If a number is typed, push it on the stack.
-
-  * If an operation is typed, depending on the operation, pop off zero
-    or more numbers from the stack, perform the operation, and
-    possibly push the result(s) back on the stack.
+You may assume that the stack contains only integers. Look at the code for Linked List for a good starting point.
+You must provide a command line based user interface. Remember to use top instead of first.
 
