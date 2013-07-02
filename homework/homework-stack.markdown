@@ -26,3 +26,6 @@ or in postfix form. If the user enters in infix form, then you have to convert i
 postfix form before evaluating it using the stack. 
 The interface allows you to enter one element at a time, and depending on whether the
 element was an operand or an operator, performs the necessary step.
+
+
+*Note : I will be using just binary operators when entering an expression for evaluation.
