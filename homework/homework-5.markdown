@@ -1,7 +1,6 @@
-
 ---
 title: Homework 5
-layout: default
+layout: default 
 ---
 
 
