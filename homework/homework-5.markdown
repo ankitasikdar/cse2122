@@ -1,6 +1,6 @@
-<!--
+
 ---
-title: Homework 6
+title: Homework 5
 layout: default
 ---
 
@@ -127,4 +127,4 @@ files):
   - `CmakeLists.txt` which contains cmakelist, as shown in class.
 
 Submit to me all three files (in a ZIP file).
--->
+
