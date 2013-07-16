@@ -1,4 +1,4 @@
-<!--
+
 ---
 title: Presentation
 layout: default
@@ -320,4 +320,4 @@ Tracy, which exit? (or 'quit'): east
 
 You move to the East...
 </pre>
--->
+
