@@ -1,7 +1,6 @@
-
 ---
 title: Homework 7
-layout: default
+layout: default 
 ---
 
 
