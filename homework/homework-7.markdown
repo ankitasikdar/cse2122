@@ -1,8 +1,7 @@
-
 ---
 title: Homework 8
 layout: default
----
+--- 
 
   - Creating classes and using object-oriented program design
     ([lecture notes (part 1)](/cse2122/lecture/classes-and-object-orientation.html)
