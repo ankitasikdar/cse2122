@@ -1,8 +1,7 @@
-
 ---
 title: Presentation
 layout: default
----
+--- 
 
 
 Skills needed to complete this assignment:
