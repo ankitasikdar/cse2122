@@ -1,4 +1,4 @@
-<!--
+
 ---
 title: Homework 7
 layout: default
@@ -146,4 +146,4 @@ This means you forgot to provide the code for a pure virtual function
 The main file should have your name inside it in the form 
 "this file was created by  "
 
--->
+
