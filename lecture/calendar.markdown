@@ -84,5 +84,5 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
     - Review.
     
 
-* Finals: Thursday, April 24, 4pm-5.45pm , CL 220
+* Finals: Thursday, April 24, 4pm-5.45pm , CL 220 
     
