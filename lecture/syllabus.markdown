@@ -18,7 +18,7 @@ layout: default
 
 - Final exam: 30%
 
-- Class participation: 10 %
+- Class participation(attendance, class interaction, surprise quizzes): 10 %
 
 You can see your grades on Carmen.
 
