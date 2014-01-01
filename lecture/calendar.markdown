@@ -27,7 +27,7 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
 
 
 * Week 4:
-    - C++ review: Arrays (Chapter 7).
+    - C++ review : Arrays (Chapter 7).
     - Dynamic arrays (Section 9.2).
     - Vectors (Section 8.3).
     - Debugging techniques. 
