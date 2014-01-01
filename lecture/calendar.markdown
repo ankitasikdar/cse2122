@@ -5,7 +5,7 @@ title: Course calendar
 
 Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
 
-(Tentative)
+
 
 * Week 1:
     - Intro to C++ (Chapter 1).
