@@ -76,7 +76,7 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
 
 
 * Week 14:
-    -Game design. 
+    - Game design. 
      
 
 * Week 15:
