@@ -52,7 +52,7 @@ we will concern ourselves only with trees.
 ## Building a tree
 
 The rest of these lecture notes will refer specifically to
-[Homework 5](/cse2122/homework/homework-4.html) requirements.
+Homework 5<!--(/cse2122/homework/homework-4.html) --> requirements.
 
 In Homework 5, each tree node contains two values (besides the
 pointers): a `string op` value and a `double val` value. The idea is
