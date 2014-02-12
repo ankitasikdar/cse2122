@@ -1,5 +1,5 @@
 ---
-title: Homework 6
+title: Homework 5
 layout: default
 ---
 
@@ -134,11 +134,8 @@ allow the user to interactively provide new expressions. In order to
 allow user input, we need to take a string like "3.4-(2.6+5.0)" and
 turn it into the right tree structure. This task is known as
 "parsing," and can be quite difficult to code if you don't use the
-right tools. I have coded a parser for you to use in your program. To
-do so, I used the flex and bison tools, which allow me to describe a
-parser in a special programming language, and which then produce C++
-code that actually performs the parsing. If you want to learn more
-about this, feel free to ask me.
+right tools. A parser has been coded for you to use in your program. 
+
 
 ## Set up your editor
 
