@@ -13,49 +13,64 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
     - Classes and objects: Brief intro (Chapter 10.1).
     - C++ review: Arithmetic (Section 2.3).
     - C++ review: Input and output (Section 2.2).
+    (Chapters 2 \& 3, Section 9.1)
+    - Pointers and the symbol table (Section 9.1).
+    - C++ review: Conditionals and Loops (Section 2.4 \& Chapter 3). 
+    - C++ Review: Functions (Chapters 4 \& 5).
+    - Quiz 1.
  
    
 * Week 2:
-      (Chapters 2 \& 3, Section 9.1)
-    - Pointers and the symbol table (Section 9.1).
-    - C++ review: Conditionals and Loops (Section 2.4 \& Chapter 3). 
-    
-    
-* Week 3: 
-    - C++ Review: Functions (Chapters 4 \& 5).
-    
-
-
-* Week 4:
     - C++ review : Arrays (Chapter 7).
     - Dynamic arrays (Section 9.2).
     - Vectors (Section 8.3).
     - Debugging techniques. 
+    - Linked lists (Chapter 13).
+    - Quiz 2.
+    
+* Week 3: 
+     - Linked lists (Chapter 13). (continued..)
+     - Trees (Chapter 13).
+     - Midterm review.
+     - Midterm 1. 
 
+
+* Week 4:
+    - Classes and object oriented programming (Chapters 10).
+    - Class inheritance (Sections 15.1 \& 15.2).
+    - Splitting Code (Section 12.1). 
+    - Polymorphism (Section 15.3).
+    - Quiz 3.
 
 * Week 5:
-    - Linked lists (Chapter 13).
+    - Polymorphism (Section 15.3). (continued..)
+    - Recursion (Chapter 14). 
+    - Midterm review.
+    - Midterm 2.
     
 
 * Week 6: 
-    - Trees (Chapter 13).
-    - Midterm 1   
-
+     - Templates and meta-programming  (Chapter 17).
+     - Maps, sets, etc. (Chapter 18).
+     - Game design. 
+     - Quiz 4.
 
 * Week 7:
-    - Classes and object oriented programming (Chapters 10).
-    - Class inheritance (Sections 15.1 \& 15.2).
+    - STL algorithms: Sorting and searching  (Chapter 18).
+    - Exception handling  (Chapter 16).
+    - Final Review.
+    - Final exam.
     
 
-
+<!--
 * Week 8:
-    - Splitting Code (Section 12.1). 
-    - Polymorphism (Section 15.3).
+    
+  
 
 
 * Week 9:
-    - Recursion (Chapter 14). 
-    - Templates and meta-programming  (Chapter 17).
+  
+   
     
 
 * Week 10:
@@ -63,26 +78,24 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
 
 
 * Week 11:
-    - Maps, sets, etc. (Chapter 18).
-
+   
 
 * Week 12:
-    - Midterm 2
-    - STL algorithms: Sorting and searching (Chapter 18).
-    
+   
+   
 
 * Week 13:
     - Graphs.   
 
 
 * Week 14:
-    - Game design. 
+   
      
 
 * Week 15:
-    - Exception handling. (Chapter 16)
-    - Review.
+   
     
 
 * Finals: Thursday, April 24, 4pm-5.45pm , CL 220 
     
+-->
