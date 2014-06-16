@@ -10,15 +10,13 @@ layout: default
 
 ## Grading
 
-- First midterm: 15%
+- Programming assignments: 35% (about three every two weeks!)
 
-- Second midterm: 15%
+- Midterms: 25%
 
-- Programming assignments: 30% (about one every week)
+- Final exam: 20%
 
-- Final exam: 30%
-
-- Class participation(attendance, class interaction, surprise quizzes): 10 %
+- In class quiz: 20 %
 
 You can see your grades on Carmen.
 
