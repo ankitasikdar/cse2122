@@ -35,14 +35,14 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
     
 
 * Week 5: 
-     - Linked lists (Chapter 13). (continued..)
-     - Trees (Chapter 13).
-     - Quiz 2.
-     
+    - Linked lists (Chapter 13). (continued..)
+    - Trees (Chapter 13).
+    - Quiz 2.
+
 
  * Week 6:    
-     - Midterm review.
-     - Midterm 1. 
+    - Midterm review.
+    - Midterm 1. 
 
 
 * Week 7:
@@ -69,12 +69,12 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
     
 
 * Week 12: 
-     - Templates and meta-programming  (Chapter 17).
-     - Maps, sets, etc. (Chapter 18).
+    - Templates and meta-programming  (Chapter 17).
+    - Maps, sets, etc. (Chapter 18).
 
 * Week 13:
-     - Game design. 
-     - Quiz 4.
+    - Game design. 
+    - Quiz 4.
 
 * Week 14:
     - STL algorithms: Sorting and searching  (Chapter 18).
