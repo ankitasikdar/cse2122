@@ -40,7 +40,7 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
     - Quiz 2.
 
 
- * Week 6:    
+* Week 6:    
     - Midterm review.
     - Midterm 1. 
 
