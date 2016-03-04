@@ -123,7 +123,7 @@ files):
 
   - `main.cpp` which contains testing code (i.e. the `main()`
     function)
-  - `CmakeLists.txt` which contains cmakelist, as shown in class.
+
 
 Submit to me all three files (in a ZIP file).
 
