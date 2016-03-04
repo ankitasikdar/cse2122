@@ -59,12 +59,12 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
 * Week 9:
     - Polymorphism (Section 15.3). (continued..)
     - Recursion (Chapter 14). 
+    - Midterm review.
 
 * Week 10:
     - Spring break
     
 * Week 11:
-    - Midterm review.
     - Midterm 2.
     
 
