@@ -7,9 +7,9 @@ layout: default
 Skills needed to complete this assignment:
 
   - Creating classes and using object-oriented program design
-    ([lecture notes (part 1)](/cse2122/lecture/classes-and-object-orientation.html)
+    ([lecture notes (part 1)](http://ankitasikdar.github.io/cse2122/lecture/class-inheritance.html)
     and
-    [lecture notes (part 2)](/cse2122/lecture/classes-and-object-orientation-2.html))
+    [lecture notes (part 2)](http://ankitasikdar.github.io/cse2122/lecture/class-inheritance-2.html))
 
   - Using polymorphism ([lecture notes](/cse2122/lecture/polymorphism.html))
 
