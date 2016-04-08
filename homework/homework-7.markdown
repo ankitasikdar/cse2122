@@ -6,7 +6,7 @@ layout: default
   - Creating classes and using object-oriented program design
     ([lecture notes (part 1)](/cse2122/lecture/class-inheritance.html)
     and
-    [lecture notes (part 2)](/cse2122/lecture/classes-inheritance-2.html))
+    [lecture notes (part 2)](/cse2122/lecture/class-inheritance-2.html))
 
   - Use of maps to store pointers
     ([lecture notes](/cse2122/lecture/maps-sets-etc.html))
