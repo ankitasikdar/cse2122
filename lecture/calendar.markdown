@@ -7,7 +7,7 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
 
 
 
-*Week 1:
+* Week 1:
 
 -Intro to C++ (Chapter 1).
 -C++ review: Variables and types (Section 2.1, 2.3).
