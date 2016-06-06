@@ -10,15 +10,23 @@ layout: default
 
 ## Grading
 
-- Programming assignments: 35% (about three every two weeks!)
+- Programming assignments(HW1-HW7): 30% (about one every week)
+
+- Programming assignments(HW8 + presentation): 10%
 
 - Midterms: 25%
 
 - Final exam: 20%
 
-- In class quiz: 20 %
+- In class quiz: 15 % (surprise quiz - atleast twice a week)
 
 You can see your grades on Carmen.
+
+## Quiz
+
+There will be a surprise quiz on almost every day of the course (or atleast twice a week). It is going to be a short and simple quiz consisting of MCQ questions, find the output, find the error or fill in the blank, true/false questions. Rarely, the quiz will involve a short programming question. It will comprise of the material taught the day before that. This ensures that the student is up to date with the class and is also learning. 
+
+In case someone is missing the quiz, they can makeup for the quizzes missed by providing proper documentation and retaking the quiz either during office hours or some other arranged time.
 
 ## Homeworks
 
