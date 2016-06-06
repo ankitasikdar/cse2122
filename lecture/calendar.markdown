@@ -7,7 +7,7 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
 
 
 
-* Week 1:
+# Week 1:
 
 - Intro to C++ (Chapter 1).
 - C++ review: Variables and types (Section 2.1, 2.3).
@@ -19,7 +19,7 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
 - C++ Review: Functions (Chapters 4 & 5).
 
 
-* Week 2:
+# Week 2:
 
 - C++ review : Arrays (Chapter 7).
 - Dynamic arrays (Section 9.2).
@@ -27,7 +27,7 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
 - Linked lists (Chapter 13).
 
 
-* Week 3:
+# Week 3:
 
 - Linked lists (Chapter 13). (continued..)
 - Trees (Chapter 13).
@@ -35,7 +35,7 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
 - Midterm 1.
 
 
-* Week 4:
+# Week 4:
 
 - Classes and object oriented programming (Chapters 10).
 - Class inheritance (Sections 15.1 & 15.2).
@@ -43,13 +43,13 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
 - Polymorphism (Section 15.3).
 
 
-* Week 5:
+# Week 5:
 
 - Polymorphism (Section 15.3). (continued..)
 - Recursion (Chapter 14).
 
 
-* Week 6:
+# Week 6:
 
 - Templates and meta-programming (Chapter 17).
 - Maps, sets, etc. (Chapter 18).
@@ -58,13 +58,13 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
 - Midterm 2.
 
 
-* Week 7:
+# Week 7:
 
 - STL algorithms: Sorting and searching (Chapter 18).
 - Exception handling (Chapter 16).
 
 
-* Week 8:
+# Week 8:
 
 - HW8 presentation.
 - Final Review.
