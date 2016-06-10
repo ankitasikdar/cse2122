@@ -365,9 +365,9 @@ int main(void) {
 and here is the corresponding C version of the swapnum code:
 {% highlight cpp%}
 void swapnum(int *i, int *j) {
-  int temp = i;
-  i = j;
-  j = temp;
+  int temp = *i;
+  *i = *j;
+  *j = temp;
 }
 
 int main(void) {
