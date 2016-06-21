@@ -3,6 +3,7 @@ title: Homework 4 - Stack calculator
 layout: default
 ---
 
+IMP : Do not use the Stack container adaptor, i.e do not use the "stack" header file. You will have to write code for your own functions.
 
 In class, I had shown you how stacks are used to evaluate expressions
 in the postfix form.
