@@ -33,8 +33,12 @@ element was an operand or an operator, performs the necessary step.
 
 You can test your program on these example expressions :
 a) 52 7 + 12 - 8 4 * +
+
 b) 3 103 - 
+
 c) 8 4 / 5 6 8 3 + - * *
+
 d) 8 2 / 7 * 9 - +
+
 e) 9 5 3 + 89 6 - - 
 
