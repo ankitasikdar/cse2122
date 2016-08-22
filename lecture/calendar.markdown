@@ -15,7 +15,7 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
 - C++ review: Arithmetic (Section 2.3).
 - C++ review: Input and output (Section 2.2). (Chapters 2 & 3, Section 9.1)
 - Pointers and the symbol table (Section 9.1).
--
+
 
 # Week 2:
 
