@@ -10,7 +10,7 @@ layout: default
 
 ## Grading
 
-- Programming assignments(HW1-HW7): 35% (about one every week)
+- Programming assignments(HW1-HW8): 35% (about one every week)
 
 - Midterms: 25%
 
