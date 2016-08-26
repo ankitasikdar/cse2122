@@ -108,7 +108,7 @@ decimal point:
  
 {% highlight cpp %}
 cout.precision(3);
-cout.setf(ios::fixed, ios::floatfield);
+cout.setf(ios::fixed);
 {% endhighlight %}
 
 Here is a complete example:
