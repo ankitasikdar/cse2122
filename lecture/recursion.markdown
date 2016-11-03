@@ -271,7 +271,7 @@ The following function constructs a *length x length* Sierpinski triangle
 with lower left corner at (*row*, *col*) in the matrix.
 It constructs the triangle by recursively constructing 
 three *(length/2)x(length/2)* triangles,
-one on top and two on the bottom. So a sample function call might look like this :setSierp(m,MAX_LENGTH-1,0,MAX_LENGTH) .
+one on top and two on the bottom. So a sample function call might look like this : setSierp(m,MAX_LENGTH-1,0,MAX_LENGTH).
 {% highlight cpp %}
 void setSierp(char m[MAX_LENGTH][MAX_LENGTH], int row, int col, int length)
 {
