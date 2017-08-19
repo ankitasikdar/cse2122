@@ -3,7 +3,7 @@ layout: default
 title: Course calendar
 ---
 
-Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
+Text: "Problem Solving with C++" by Walter Savitch.
 
 
 
