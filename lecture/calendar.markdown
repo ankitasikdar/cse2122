@@ -68,35 +68,40 @@ Text: "Problem Solving with C++" by Walter Savitch, 8th edition.
 
 # Week 10:
 
-- Spring break
-
-
-# Week 11:
-
 - Midterm review.
 - Midterm 2.
 
 
-# Week 12:
+# Week 11:
 
 - Templates and meta-programming (Chapter 17).
 - Maps, sets, etc. (Chapter 18).
 
 
-# Week 13:
+# Week 12:
 
 - Game design.
 
 
+# Week 13:
+
+- Game design(contd.).
+- STL algorithms: Sorting and searching (Chapter 18).
+
+
 # Week 14:
 
-- STL algorithms: Sorting and searching (Chapter 18).
-- Quiz 4
+- Thanksgiving break.
 
 
 # Week 15:
 
-- Final Review
+- Quiz 4
+- Final review.
+
+
+# Week 16:
+
 - Final exam.
 
 
