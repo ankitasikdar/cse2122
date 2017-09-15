@@ -40,7 +40,8 @@ element was an operand or an operator, performs the necessary step.
 
 *Note : I will be using just binary operators and integers(0-9) when entering an expression for evaluation.
 
-You can test your program on these example expressions :
+You can test your program on these example expressions (for invalid expressions, print a suitable error message) :
+
 a) 5 7 + 2 - 8 4 * +
 
 b) 3 1 - 
