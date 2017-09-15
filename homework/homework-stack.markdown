@@ -3,7 +3,16 @@ title: Homework 4 - Stack calculator
 layout: default
 ---
 
-IMP : Do not use the Stack container adaptor, i.e do not use the "stack" header file. You will have to write code for your own functions.
+In Class we discussed about the 'Stack' data structure( remember that it is LIFO 'last in first out'). A stack can be implemented using arrays or a linked list. In this homework, I want you to implement a Stack using linked lists. 
+
+IMP : Do not use the Stack container adaptor, i.e do not use the "stack" header file. You will have to write code for your own functions. In esscence you will have to implement the following functions:
+
+isEmpty: Return true if the stack is empty.
+Top: Access the top element.
+Push: Add a new element and update the TOP
+Pop: Remove element and update the TOP
+
+Look at the code for Linked List for a good starting point. Remember to use top instead of first.
 
 In class, I had shown you how stacks are used to evaluate expressions
 in the postfix form.
