@@ -15,6 +15,7 @@ Push: Add a new element and update the TOP
 
 Pop: Remove element and update the TOP
 
+
 Look at the code for Linked List for a good starting point. Remember to use top instead of first.
 
 In class, I had shown you how stacks are used to evaluate expressions
