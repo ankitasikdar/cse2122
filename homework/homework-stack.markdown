@@ -29,16 +29,16 @@ The interface allows you to enter one element at a time, and depending on whethe
 element was an operand or an operator, performs the necessary step.
 
 
-*Note : I will be using just binary operators when entering an expression for evaluation.
+*Note : I will be using just binary operators and integers(0-9) when entering an expression for evaluation.
 
 You can test your program on these example expressions :
-a) 52 7 + 12 - 8 4 * +
+a) 5 7 + 2 - 8 4 * +
 
-b) 3 103 - 
+b) 3 1 - 
 
 c) 8 4 / 5 6 8 3 + - * *
 
 d) 8 2 / 7 * 9 - +
 
-e) 9 5 3 + 89 6 - - 
+e) 9 5 3 + 8 6 - - 
 
