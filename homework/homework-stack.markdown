@@ -27,7 +27,7 @@ for their mathematical expressions.
 For example, `5 - 2` is instead written `5 2 -` and `5 - (2 + 1)`
 written `5 2 1 + -`
 
-The way this works is as follows:
+The way this works is as follows: 
 
   * If a number is typed, push it on the stack.
 
